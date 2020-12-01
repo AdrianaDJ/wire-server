@@ -4,8 +4,3 @@
 # https://docs.helm.sh/developing_charts/#tags-and-condition-fields-in-requirements-yaml
 # tags:
 #   services: true
-
-tags:
-  team-settings: false
-  account-pages: false
-  legalhold: false

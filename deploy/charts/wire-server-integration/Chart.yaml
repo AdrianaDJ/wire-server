@@ -1,4 +1,4 @@
 apiVersion: v1
 description: A Helm chart for wire-server https://github.com/wireapp/wire-server
-name: wire-server
+name: wire-server-integration
 version: 0.124.0
