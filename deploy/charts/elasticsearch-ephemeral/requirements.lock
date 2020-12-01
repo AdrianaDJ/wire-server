@@ -1,0 +1,6 @@
+dependencies:
+- name: elasticsearch-index
+  repository: file://../elasticsearch-index
+  version: 0.1.0
+digest: sha256:8d9b493f28889b71ac46a90b4f5ba4dde56b6bedb5aecfdea43ad831477fa091
+generated: 2018-08-08T13:05:13.866230551+02:00

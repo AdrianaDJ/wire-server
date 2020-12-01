@@ -1,0 +1,18 @@
+dependencies:
+- name: fake-aws-sns
+  repository: file://../fake-aws-sns
+  version: 0.124.0
+- name: fake-aws-sqs
+  repository: file://../fake-aws-sqs
+  version: 0.124.0
+- name: fake-aws-s3
+  repository: file://../fake-aws-s3
+  version: 0.124.0
+- name: fake-aws-dynamodb
+  repository: file://../fake-aws-dynamodb
+  version: 0.124.0
+- name: fake-aws-ses
+  repository: file://../fake-aws-ses
+  version: 0.124.0
+digest: sha256:9c95b180fcc13afeb35280f978baac99dca3fcfaf750e5bd95a4007359aeddce
+generated: "2020-11-19T14:52:52.83625344+01:00"

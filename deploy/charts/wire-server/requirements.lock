@@ -1,0 +1,42 @@
+dependencies:
+- name: cassandra-migrations
+  repository: file://../cassandra-migrations
+  version: 0.124.0
+- name: elasticsearch-index
+  repository: file://../elasticsearch-index
+  version: 0.124.0
+- name: cannon
+  repository: file://../cannon
+  version: 0.124.0
+- name: proxy
+  repository: file://../proxy
+  version: 0.124.0
+- name: cargohold
+  repository: file://../cargohold
+  version: 0.124.0
+- name: gundeck
+  repository: file://../gundeck
+  version: 0.124.0
+- name: spar
+  repository: file://../spar
+  version: 0.124.0
+- name: galley
+  repository: file://../galley
+  version: 0.124.0
+- name: brig
+  repository: file://../brig
+  version: 0.124.0
+- name: nginz
+  repository: file://../nginz
+  version: 0.124.0
+- name: webapp
+  repository: file://../webapp
+  version: 0.124.0
+- name: team-settings
+  repository: file://../team-settings
+  version: 0.124.0
+- name: account-pages
+  repository: file://../account-pages
+  version: 0.124.0
+digest: sha256:471085370de471035f731a0a29b933b6854ed82594301ba98609248e17dba823
+generated: "2020-11-19T14:53:49.161751935+01:00"
